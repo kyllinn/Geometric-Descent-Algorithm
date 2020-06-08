@@ -5,7 +5,7 @@ The main content of our project is about a geometric gradient descent algorithmâ
 **Writeup.ipynb:** Description and Conclusion of the Project\
 **Experiment1.ipynb:** Comparisons of GeoD with other Optimizers\
 **Experiment2.ipynb:** Dip into the core algorithm in GeoD: Line Search\
-**Loss_and_Optimizer.py:** Loss Function and Optimizer Classes\
+**Loss_and_Optimizer.py:** Loss Function and Optimizer Classes
 
 # Team Members:
 Bingdao Chen\
