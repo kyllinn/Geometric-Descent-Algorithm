@@ -3,8 +3,8 @@ The main content of our project is about implementation of a geometric gradient 
 
 # File Description:
 **Writeup.ipynb:** Description and Conclusion of the Project\
-**Experiment1.ipynb:** Comparisons of GeoD with other Optimizers\
-**Experiment2.ipynb:** Dip into the core algorithm in GeoD: Line Search\
+**Experiment1_annotation.ipynb:** Comparisons of GeoD with other Optimizers\
+**Experiment2_annotation.ipynb:** Dip into the core algorithm in GeoD: Line Search\
 **Loss_and_Optimizer.py:** Loss Function and Optimizer Classes
 
 # Team Members:
