@@ -13,5 +13,3 @@ Keyuan Lin\
 Yuxiang Lin\
 Zhiwei Wang
 
-# Github Link:  
-https://github.com/yzwzwwd/STA208-Project
